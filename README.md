@@ -10,37 +10,13 @@
 
 ```javascript
 const dhruv = {
-  education: "B.E Information Technology 🎓",
-
-  building: [
-    "DSA Revision Tracker Pro 🚀",
-    "Arogyaa AI Healthcare 🏥",
-    "FoodHub 🍔"
-  ],
-
-  stack: [
-    "Java",
-    "TypeScript",
-    "JavaScript",
-    "React",
-    "Node.js",
-    "Express.js",
-    "Spring Boot",
-    "MongoDB",
-    
-  ],
-
-  goals: [
-    "Master Data Structures & Algorithms",
-    "Build Scalable Full-Stack Applications",
-    "Become a Full-Stack AI Engineer"
-  ],
-
+  education: "B.E Information Technology · GPA: 8.50🎓 ",
+  building: ["DSA Revision Tracker Pro 🚀","Arogyaa AI Healthcare 🏥","FoodHub 🍔"],
+  stack: ["Java","TypeScript","JavaScript","React","Node.js","Express.js","Spring Boot","MongoDB"],
+  goals: ["Master Data Structures & Algorithms","Build Scalable Full-Stack Applications","Become a Full-Stack AI Engineer"],
   contact: "dhruvr.nayak@gmail.com"
 };
 ```
-
-
 ## 🛠️ Tech Stack
 
 <div align="center">

@@ -10,8 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=dhruvnayak001&label=Profile%20Views&color=blue&style=for-the-badge" />
   
   <a href="https://www.linkedin.com/in/dhruv-nayak-32a9682a8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn%20%7C%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+</a>
 </p>
 
 ## 👨‍💻 whoami
@@ -70,15 +72,16 @@ const dhruv = {
 ## 🤝 Let's Connect
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/dhruv-nayak-32a9682a8" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-Dhruv%20Nayak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:dhruvr.nayak@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhruvr.nayak@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/GMAIL-dhruvr.nayak@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 </p>
-
 
 
 

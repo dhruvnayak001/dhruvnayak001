@@ -56,10 +56,9 @@ const dhruv = {
 
 | Project                         | Description                                                                                                                              | Tech Stack                                            |
 | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| 🏥 **Arogyaa**                  | AI-powered healthcare platform featuring symptom analysis, health blogs, live medical news, and patient-focused services.                | `React` `JavaScript` `Spring Boot` `MongoDB`          |
-| 🍔 **FoodHub**                  | Full-stack food ordering application with cart management, order processing, PDF invoice generation, and email notifications.            | `HTML5` `CSS3` `JavaScript` `Spring Boot` `MySQL`     |
-| 🎯 **DSA Revision Tracker Pro** | Smart spaced-repetition platform for mastering DSA through revision scheduling, analytics, streaks, achievements, and progress tracking. | `React` `TypeScript` `Node.js` `Express.js` `MongoDB` |
-
+| 🏥 **[Arogyaa](https://github.com/dhruvnayak001/Java-miniProject-.git)**                  | AI-powered healthcare platform featuring symptom analysis, health blogs, live medical news, and patient-focused services.                | `React` `JavaScript` `Spring Boot` `MongoDB`          |
+| 🍔 **[FoodHub](https://github.com/dhruvnayak001/FoodHub.git)**                  | Full-stack food ordering application with cart management, order processing, PDF invoice generation, and email notifications.            | `HTML5` `CSS3` `JavaScript` `Spring Boot` `MySQL`     |
+| 🎯 **[DSA Revision Tracker Pro](https://github.com/dhruvnayak001/DSA.git)** | Smart spaced-repetition platform for mastering DSA through revision scheduling, analytics, streaks, achievements, and progress tracking. | `React` `TypeScript` `Node.js` `Express.js` `MongoDB` |
 
 ## 🐍 Contribution Snake
 

@@ -6,6 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1200&color=8B5CF6&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Dhruv+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Java;DSA+Learner+%26+Problem+Solver+%F0%9F%A7%A0;Turning+Ideas+Into+Products+%F0%9F%92%A1" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhruvnayak001&label=Profile%20Views&color=blue&style=for-the-badge" />
+  
+  <a href="https://www.linkedin.com/in/dhruv-nayak-32a9682a8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn%20%7C%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ## 👨‍💻 whoami
 
 ```javascript

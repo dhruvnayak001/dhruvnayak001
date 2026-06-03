@@ -79,3 +79,9 @@ const dhruv = {
 </a>
 </p>
 
+
+
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=100&section=footer" width="100%" />
+</p>

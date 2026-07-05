@@ -31,34 +31,52 @@ const dhruv = {
 
 <div align="center">
 
-### Languages
+## 🛠️ Tech Stack
+
+### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frameworks
+### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### Databases & Tools
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### 🤖 AI & Cloud
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
+
+### 🗄️ Database & DevOps
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ## 🚀 Projects
 
-| Project                         | Description                                                                                                                              | Tech Stack                                            |
-| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| 🏥 **[Arogyaa](https://github.com/dhruvnayak001/Java-miniProject-.git)**                  | AI-powered healthcare platform featuring symptom analysis, health blogs, live medical news, and patient-focused services.                | `React` `JavaScript` `Spring Boot` `MongoDB`          |
-| 🍔 **[FoodHub](https://github.com/dhruvnayak001/FoodHub.git)**                  | Full-stack food ordering application with cart management, order processing, PDF invoice generation, and email notifications.            | `HTML5` `CSS3` `JavaScript` `Spring Boot` `MySQL`     |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏥 **[ArogyaAI](https://github.com/dhruvnayak001/ArogyaAI)** | Production-grade AI-powered healthcare ecosystem featuring Google Gemini AI, emergency triage, AI doctor chatbot, OCR-based medical record analysis, smart appointment booking, Razorpay payments, voice symptom input, doctor & patient dashboards, secure JWT authentication, BullMQ background workers, Cloudinary storage, and enterprise-grade security. | `React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Google Gemini AI` `Razorpay` `Cloudinary` `BullMQ` `Redis` |
+| 🍔 **[FoodHub](https://github.com/dhruvnayak001/FoodHub.git)** | Full-stack food ordering application with cart management, order processing, PDF invoice generation, and email notifications. | `HTML5` `CSS3` `JavaScript` `Spring Boot` `MySQL` |
 | 🎯 **[DSA Revision Tracker Pro](https://github.com/dhruvnayak001/DSA.git)** | Smart spaced-repetition platform for mastering DSA through revision scheduling, analytics, streaks, achievements, and progress tracking. | `React` `TypeScript` `Node.js` `Express.js` `MongoDB` |
+| 🏥 **[Arogyaa](https://github.com/dhruvnayak001/Java-miniProject-.git)**                  | AI-powered healthcare platform featuring symptom analysis, health blogs, live medical news, and patient-focused services.                | `React` `JavaScript` `Spring Boot` `MongoDB`          |
+
 
 ## 🐍 Contribution Snake
 
